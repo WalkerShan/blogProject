@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /logo.jpg
-actionText: 芝麻开门 →
+actionText: 芝麻快开门 →
 actionLink: /blog/js/
 features:
 - title: 简洁至上
